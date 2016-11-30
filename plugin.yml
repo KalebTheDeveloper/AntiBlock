@@ -1,0 +1,13 @@
+name: RandomTP
+main: me.doobles.RandomTP
+version: 1.0
+commands:
+   shorttp:
+      description: Teleports player a up to 100 blocks out
+      usage: /<command>
+   mediumtp:
+      description: Teleports player up to 500 blocks out
+      usage: /<command>
+   fartp:
+      description: Teleports player up to 1000 blocks out
+      usage: /<command>
