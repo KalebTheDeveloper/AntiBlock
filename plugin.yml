@@ -3,11 +3,14 @@ main: me.doobles.RandomTP
 version: 1.0
 commands:
    shorttp:
-      description: Teleports player a up to 100 blocks out
+      description: Teleports player a short distance out
       usage: /<command>
    mediumtp:
-      description: Teleports player up to 500 blocks out
+      description: Teleports player a medium distance out
       usage: /<command>
    fartp:
-      description: Teleports player up to 1000 blocks out
+      description: Teleports player a far distance out
+      usage: /<command>
+   wild:
+      description: Teleports player to a random location in the wild
       usage: /<command>
